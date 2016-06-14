@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Select Uncommented'
+      'submenu': [
+        { 'label': 'Select', 'command': 'select-uncommented:select' }
+      ]
+    ]
+  }
+]
