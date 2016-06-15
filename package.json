@@ -1,7 +1,7 @@
 {
   "name": "select-uncommented",
   "main": "./lib/select-uncommented",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Select uncommented lines in current buffer",
   "repository": {
     "type": "git",
